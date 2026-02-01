@@ -1,1 +1,1 @@
-# Invest-for-wellness-i4We-Member-App-Test-Case
+# Invest-for-wellness-i4We-Test-Case
